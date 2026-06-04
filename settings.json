@@ -1,0 +1,7 @@
+{
+  "scroll_probability": 0.9,
+  "scroll_min_interval": 2,
+  "tab_probability": 0.819034090909091,
+  "tab_min_interval": 15,
+  "think_time": 3
+}
